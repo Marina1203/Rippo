@@ -75,3 +75,8 @@ font-family: 'Oswald', sans-serif; */
 
 /* Feuille de style damien santo site de HTML/CSS PHASE 2 */
 
+
+body {
+    background-image: url('../img/canaletto-grand-canal.jpg');
+    background-position: top right;
+}
